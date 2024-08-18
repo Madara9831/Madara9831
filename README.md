@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Bachelor of Information Technology, Networking, Cyber Security, Java, CSS, Python**
 
-- 📫 How to reach me **sewwanditcc285@gmail.comMa**
+- 📫 How to reach me **sewwanditcc285@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
